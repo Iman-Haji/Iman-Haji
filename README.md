@@ -1,5 +1,8 @@
 ### ˗ˏˋ IMAN HAJI ´ˎ˗
 
+Hello there!
+
+I am currently studying Full Stack Web Development.
 <!--
 **Iman-Haji/Iman-Haji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
